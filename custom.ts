@@ -2,7 +2,7 @@
 * Modifications to Functions to NeZha multifunctional expansion board by ELECFREAKS Co.,Ltd.
 */
 //% color=#ff0000  icon="\uf06d" block="NeZha" blockId="NeZha"
-namespace myneZha {
+namespace neZha {
     const neZha_address = 0x10
     /**
     * MotorList
